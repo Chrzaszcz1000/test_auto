@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.codehaus.geb:geb-testng:0.7.1" type="repository">
+    <properties maven-id="org.codehaus.geb:geb-testng:0.7.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/geb-testng-0.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/geb-core-0.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/geb-implicit-assertions-0.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
